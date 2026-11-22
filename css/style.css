@@ -690,6 +690,21 @@ a {
     box-shadow:
     0 15px 35px rgba(0,0,0,0.20);
 }
+.map-image{
+    width:100%;
+    max-width:1000px;
+    display:block;
+    margin:20px auto;
+    border-radius:12px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.15);
+}
+
+.map-caption{
+    text-align:center;
+    margin-top:10px;
+    font-style:italic;
+    color:#666;
+}
 
 /* =========================================
    10. SOURCES
