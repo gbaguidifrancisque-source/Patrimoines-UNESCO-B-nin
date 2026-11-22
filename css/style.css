@@ -141,7 +141,7 @@ a {
             rgba(0, 0, 0, 0.55),
             rgba(0, 0, 0, 0.45)
         ),
-        url("../images/banniere.jpeg");
+        url('../images/banniere.jpeg');
 
     background-size: cover;
     background-position: center;
